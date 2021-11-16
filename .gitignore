@@ -1,0 +1,15 @@
+/bower_components
+/conf
+.sass-cache
+*node_modules*
+*node*
+# Ignore Intellij projects specific files
+.idea/
+*.iml
+# Ignore Eclipse projects specific files
+.classpath
+.project
+.settings/
+.DS_Store
+/out
+*.factorypath
